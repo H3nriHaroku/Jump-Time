@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5140347256545195976
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 639247ca83abc874e893eb93af2b5e44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 0
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Water 1
+  m_Shader: {fileID: -6465566751694194690, guid: 51d1a4698b2d16944b25fb94f6cc2d28,
+    type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _BUILTIN_QueueControl: 0
+    - _BUILTIN_QueueOffset: 0
+    - _Metalic: 0.4
+    - _NormalStrength: 0.12
+    - _Smoothness: 1.4
+    - _TransarencyMask: 1
+    - _VoronoiAgitation: 1
+    - _VoronoiPower: 4
+    - _VoronoiScale: 10
+    m_Colors:
+    - _BaseColor: {r: 0, g: 1.9806179, b: 2, a: 1}
+    - _NormalSpeed: {r: 0, g: 1, b: 0, a: 0}
+    - _VoronoiColor: {r: 0, g: 1, b: 0.99999976, a: 1}
+    - _VoronoiSPeed: {r: 0, g: 1, b: 0, a: 0}
+    - _VoronoiTiling: {r: 1.2, g: 0.6, b: 0, a: 0}
+  m_BuildTextureStacks: []
